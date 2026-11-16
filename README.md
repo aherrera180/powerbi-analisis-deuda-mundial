@@ -22,7 +22,7 @@ powerbi-analisis-deuda-mundial/
 ├── README.md
 ├── PowerBI/
 │   └── Reto_01_Analisis_Deuda_Mundial_2025.pbix
-└── Images/
+└── IMAGES/
     └── dashboard_deuda_mundial_2025.png
 ```
 
@@ -123,7 +123,7 @@ Se personalizó el dashboard con **azul marino**, texto blanco, esquinas redonde
 
 ### 🖼️ Captura del dashboard
 
-![Dashboard de deuda pública mundial 2025](Images/dashboard_deuda_mundial_2025.png)
+![Dashboard de deuda pública mundial 2025](IMAGES/dashboard_deuda_mundial_2025.png)
 
 > Para que se vea en GitHub, colocar la captura en `Images/dashboard_deuda_mundial_2025.png`.
 
